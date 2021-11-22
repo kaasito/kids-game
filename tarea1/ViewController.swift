@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var circulo: UIButton!
     @IBOutlet weak var triangulo: UIButton!
     @IBOutlet weak var timer: UILabel!
-    var tiempo = 6
+    var tiempo = 3
     var timerr = Timer()
    
     override func viewDidLoad() {
